@@ -1,7 +1,6 @@
 * text=auto eol=crlf
 
 node_modules
-build
 .turbo
 .DS_Store
 .docusaurus
