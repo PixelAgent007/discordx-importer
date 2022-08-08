@@ -48,7 +48,8 @@
   },
   "dependencies": {
     "glob": "^8.0.3",
-    "tslib": "^2.4.0"
+    "tslib": "^2.4.0",
+    "turbo": "^1.4.2"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",
